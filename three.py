@@ -71,4 +71,5 @@
 # print(bin(13>>1),bin(13),0b110)
 a = 13
 
-# print( bin(a >> 2),bin(10),a >> 2)
+
+a=89
